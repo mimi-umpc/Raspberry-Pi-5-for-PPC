@@ -1,14 +1,3 @@
-Material type
-Plastic
-
-Material name
-Glass filled HP PA 12
-
-Alternative names
-HP 3D High Reusability PA 12 Glass Beads
-
-Process compatibility
-MJF
-
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" id="u0" href="https://rakko.tools/tools/129/lib/tinymce/skins/ui/oxide/content.min.css"><link rel="stylesheet" type="text/css" id="u1" href="https://rakko.tools/tools/129/lib/tinymce/skins/content/default/content.min.css"></head><body id="tinymce" class="mce-content-body " data-id="content" contenteditable="true" spellcheck="false"><p><strong>The snap-fit method is used to join the shell of the main body. Therefore, we recommend 3D printing by MJF method because of its high strength and dimensional accuracy.</strong></p><p><strong>FDM and SLA 3D printing may also be possible, but is not recommended due to heat resistance and removal of support.</strong><br></p><p><br data-mce-bogus="1"></p><p><strong>-Material type</strong><br>Plastic</p><p><strong>-Material name</strong><br>Glass filled HP PA 12</p><p><strong>-Alternative names</strong><br>HP 3D High Reusability PA 12 Glass Beads</p><p><strong>-Process compatibility</strong><br>MJF</p><p><br data-mce-bogus="1"></p><p><strong>battery indicator</strong> should be modeled in clear resin.</p><p>The battery indicator and button models must be cut after modeling.</p><p><br data-mce-bogus="1"></p></body></html>
 
 ![README](https://github.com/user-attachments/assets/f22cb6f7-08b3-484e-81f1-717a1ae403b1)
