@@ -1,4 +1,4 @@
-#LED Battery Indicator
+# LED Battery Indicator
 
 Unsolder S1 and solder S2.
 Remove the indicator display and wire with ETFE 0.26 to the dedicated PCB.
