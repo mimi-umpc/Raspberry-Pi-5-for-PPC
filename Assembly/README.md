@@ -11,3 +11,4 @@
 </ol>
 
 ![IMG_5855](https://github.com/user-attachments/assets/b0bed29e-439f-475a-95b4-247ee1b2e3cd)
+![schematic](https://github.com/user-attachments/assets/779654ab-303b-4426-8790-ae5f096df982)
